@@ -1,0 +1,83 @@
+body{
+    font-family: 'Hind Siliguri', sans-serif;
+   
+}
+.section1{
+    color: antiquewhite;
+    margin: 20px 0px 0px 0px ;
+    margin-bottom: 220px;
+}
+.nam{
+    color: black;
+    font-size: 45px;
+    float: left;
+}
+.top-nav-bar{
+    height: 90px;
+    margin-right: 120px;
+}
+.nav-bar-link{
+    text-decoration: none;
+    color: rgb(51, 49, 46);
+    float: right;
+    padding: 10px;
+}
+.nav-bar-link3{
+    background-color: orange;
+    border-radius: 5px;
+}
+.aaa{
+    color: orange;
+}
+.Hi{
+    color: rgb(79, 81, 83);
+    font-size: 55px;
+}
+.Name{
+    font-size: 85px;
+
+}
+.name-2{
+    color: black;
+}
+p{
+    color: rgb(59, 57, 57);
+}
+.Name .Half-Name{
+    color: red;
+}
+.first-half{
+    width: 40%;
+    float: left;
+    /* margin-left: 8%; */
+}
+.second-half{
+    width: 40%;
+    float: left;
+}
+.second-half img{
+    width: 100%;
+}
+.left-banar{
+    width: 10%;
+    float: left;
+
+}
+.button1{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(45deg,orange,red);
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.button2{
+    text-decoration: none;
+    color: orange;
+    margin-left: 15px;
+    padding: 9px;
+    border: 1px solid orange;
+    border-radius: 5px;
+    font-size: 20px;
+    
+}
